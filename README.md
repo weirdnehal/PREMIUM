@@ -11,7 +11,7 @@
 * [+] Random Cloning !
 * [+] Updated maintainence !
 * [+] Easy for beginners !
-* [+] Working W-NEHAL tool for termux & kali linux !
+* [+] Working PREMIUM tool for termux & kali linux !
 
 ### Commands :
 To remove the old Version:
